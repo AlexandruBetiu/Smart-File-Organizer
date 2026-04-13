@@ -1,0 +1,27 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="520" rx="24" fill="#121936"/>
+  <rect x="28" y="28" width="1144" height="464" rx="22" fill="#0E142C" stroke="#31428A" stroke-width="2"/>
+  <circle cx="66" cy="64" r="10" fill="#FF869A"/>
+  <circle cx="98" cy="64" r="10" fill="#FFB56B"/>
+  <circle cx="130" cy="64" r="10" fill="#66E3FF"/>
+  <text x="168" y="72" fill="#9CA9D1" font-family="Consolas, monospace" font-size="18">python app.py</text>
+
+  <text x="62" y="122" fill="#66E3FF" font-family="Consolas, monospace" font-size="24">Smart File Organizer</text>
+  <text x="62" y="162" fill="#F4F7FF" font-family="Consolas, monospace" font-size="22">Current folder: C:\Users\Student\Downloads</text>
+  <text x="62" y="200" fill="#F4F7FF" font-family="Consolas, monospace" font-size="22">Classify by: Exact extension</text>
+  <text x="62" y="250" fill="#F4F7FF" font-family="Consolas, monospace" font-size="22">1. Choose folder</text>
+  <text x="62" y="286" fill="#F4F7FF" font-family="Consolas, monospace" font-size="22">2. Choose classify mode</text>
+  <text x="62" y="322" fill="#F4F7FF" font-family="Consolas, monospace" font-size="22">3. Scan and preview</text>
+  <text x="62" y="358" fill="#F4F7FF" font-family="Consolas, monospace" font-size="22">4. Organize folder</text>
+  <text x="62" y="394" fill="#F4F7FF" font-family="Consolas, monospace" font-size="22">5. Undo last organize</text>
+  <text x="62" y="430" fill="#F4F7FF" font-family="Consolas, monospace" font-size="22">6. Exit</text>
+
+  <rect x="698" y="126" width="412" height="282" rx="20" fill="#18224A" stroke="#66E3FF" stroke-width="2"/>
+  <text x="730" y="164" fill="#FFB56B" font-family="Consolas, monospace" font-size="22">Preview:</text>
+  <text x="730" y="208" fill="#F4F7FF" font-family="Consolas, monospace" font-size="20">- cover.jpg -&gt; JPG</text>
+  <text x="730" y="244" fill="#F4F7FF" font-family="Consolas, monospace" font-size="20">- notes.pdf -&gt; PDF</text>
+  <text x="730" y="280" fill="#F4F7FF" font-family="Consolas, monospace" font-size="20">- slides.pptx -&gt; PPTX</text>
+  <text x="730" y="332" fill="#66E3FF" font-family="Consolas, monospace" font-size="20">Summary:</text>
+  <text x="730" y="366" fill="#F4F7FF" font-family="Consolas, monospace" font-size="20">- JPG: 5</text>
+  <text x="730" y="396" fill="#F4F7FF" font-family="Consolas, monospace" font-size="20">- PDF: 2</text>
+</svg>

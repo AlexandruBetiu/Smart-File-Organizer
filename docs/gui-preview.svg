@@ -1,0 +1,45 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="28" fill="#121936"/>
+  <rect x="34" y="34" width="250" height="652" rx="24" fill="#1D2854" stroke="#66E3FF" stroke-width="2"/>
+  <rect x="316" y="34" width="850" height="96" rx="24" fill="#1C2449" stroke="#FF869A" stroke-width="2"/>
+  <rect x="316" y="154" width="270" height="120" rx="24" fill="#1D2854" stroke="#66E3FF" stroke-width="2"/>
+  <rect x="606" y="154" width="270" height="120" rx="24" fill="#1D2854" stroke="#FF869A" stroke-width="2"/>
+  <rect x="896" y="154" width="270" height="120" rx="24" fill="#1D2854" stroke="#FFB56B" stroke-width="2"/>
+  <rect x="316" y="298" width="850" height="258" rx="24" fill="#1C2449" stroke="#66E3FF" stroke-width="2"/>
+  <rect x="316" y="580" width="850" height="106" rx="24" fill="#1C2449" stroke="#FFB56B" stroke-width="2"/>
+
+  <text x="62" y="96" fill="#F4F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Smart File</text>
+  <text x="62" y="136" fill="#F4F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Organizer</text>
+  <text x="62" y="176" fill="#9CA9D1" font-family="Segoe UI, Arial, sans-serif" font-size="16">Preview, organize, stop, undo</text>
+
+  <rect x="62" y="220" width="194" height="52" rx="16" fill="#31428A"/>
+  <rect x="62" y="288" width="194" height="52" rx="16" fill="#243261"/>
+  <rect x="62" y="356" width="194" height="52" rx="16" fill="#FFB56B"/>
+  <rect x="62" y="424" width="194" height="52" rx="16" fill="#243261"/>
+  <rect x="62" y="492" width="194" height="52" rx="16" fill="#9F4265"/>
+  <text x="92" y="252" fill="#F4F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Choose Folder</text>
+  <text x="98" y="320" fill="#F4F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Scan Preview</text>
+  <text x="88" y="388" fill="#141B37" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Organize Options</text>
+  <text x="96" y="456" fill="#F4F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Undo Last Run</text>
+  <text x="138" y="524" fill="#F4F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Stop</text>
+
+  <text x="350" y="74" fill="#FF869A" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">WORKSPACE</text>
+  <text x="350" y="108" fill="#F4F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">Review the folder first, then organize from the popup.</text>
+
+  <text x="348" y="194" fill="#9CA9D1" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">FILES FOUND</text>
+  <text x="348" y="246" fill="#F4F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">28</text>
+  <text x="638" y="194" fill="#9CA9D1" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">GROUPS PLANNED</text>
+  <text x="638" y="246" fill="#F4F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">7</text>
+  <text x="928" y="194" fill="#9CA9D1" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">LAST RUN MOVED</text>
+  <text x="928" y="246" fill="#F4F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">12</text>
+
+  <text x="350" y="338" fill="#66E3FF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">PREVIEW</text>
+  <text x="350" y="380" fill="#F4F7FF" font-family="Consolas, monospace" font-size="20">Planned groups:</text>
+  <text x="350" y="416" fill="#F4F7FF" font-family="Consolas, monospace" font-size="20">- Images: 8</text>
+  <text x="350" y="452" fill="#F4F7FF" font-family="Consolas, monospace" font-size="20">- Documents: 6</text>
+  <text x="350" y="488" fill="#F4F7FF" font-family="Consolas, monospace" font-size="20">- Code: 5</text>
+  <text x="350" y="524" fill="#F4F7FF" font-family="Consolas, monospace" font-size="20">- 2026-04: 9</text>
+
+  <text x="350" y="620" fill="#FFB56B" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">STATUS</text>
+  <text x="350" y="662" fill="#F4F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="20">Done. Moved 12 files using File type classification.</text>
+</svg>
